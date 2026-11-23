@@ -1,0 +1,1 @@
+{"description":"make.fun entry: one line pitching a builder to fund a bounty","main":"main.ts","name":"walrus-one-line","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
